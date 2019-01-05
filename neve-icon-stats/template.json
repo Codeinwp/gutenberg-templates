@@ -3,7 +3,6 @@
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
-        "id": "wp-block-themeisle-blocks-advanced-columns-e8fc5769",
         "columns": 4,
         "layout": "equal",
         "layoutTablet": "twoColumnGrid",
