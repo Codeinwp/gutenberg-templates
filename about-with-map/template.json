@@ -1,5 +1,5 @@
 {
-    "clientId": "6f43f9da-93ee-4d04-9705-a95fdb75fd73",
+    "clientId": "38952f05-8fc5-4814-b71a-2614c7a65a5e",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
@@ -119,11 +119,10 @@
     },
     "innerBlocks": [
         {
-            "clientId": "4212c139-eb5a-4cfa-8f48-817abfbcea49",
+            "clientId": "f2e2541a-2849-4d20-acc1-b1c5f9f39f58",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
-                "id": "wp-block-themeisle-blocks-advanced-columns-44be0f99",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
@@ -190,7 +189,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "24d87c40-0220-46ae-912c-316f9ce5e258",
+                    "clientId": "9ebe6ae7-8ef9-4796-9493-4e57c8504539",
                     "name": "themeisle-blocks/google-map",
                     "isValid": true,
                     "attributes": {
@@ -206,11 +205,10 @@
             "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-44be0f99\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
         },
         {
-            "clientId": "7ebb7886-c62f-4d4b-8404-94c3373e3919",
+            "clientId": "d0b243ed-6db9-4b17-92db-7f45352556c5",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
-                "id": "wp-block-themeisle-blocks-advanced-columns-9bff6636",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
@@ -277,18 +275,57 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "d8590716-809a-45f1-935b-8d2f2a2c675c",
-                    "name": "core/heading",
+                    "clientId": "fe63ff86-1ab5-4c90-a9b9-f13c586f8c30",
+                    "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
                         "content": "We are real people.",
-                        "level": 2
+                        "tag": "h2",
+                        "headingColor": "#000000",
+                        "fontStyle": "normal",
+                        "textTransform": "none",
+                        "textShadow": false,
+                        "textShadowColor": "#000000",
+                        "textShadowColorOpacity": 50,
+                        "textShadowBlur": 5,
+                        "textShadowHorizontal": 0,
+                        "textShadowVertical": 0,
+                        "paddingType": "linked",
+                        "paddingTypeTablet": "linked",
+                        "paddingTypeMobile": "linked",
+                        "padding": 0,
+                        "paddingTablet": 0,
+                        "paddingMobile": 0,
+                        "paddingTop": 0,
+                        "paddingTopTablet": 0,
+                        "paddingTopMobile": 0,
+                        "paddingRight": 0,
+                        "paddingRightTablet": 0,
+                        "paddingRightMobile": 0,
+                        "paddingBottom": 0,
+                        "paddingBottomTablet": 0,
+                        "paddingBottomMobile": 0,
+                        "paddingLeft": 0,
+                        "paddingLeftTablet": 0,
+                        "paddingLeftMobile": 0,
+                        "marginType": "unlinked",
+                        "marginTypeTablet": "unlinked",
+                        "marginTypeMobile": "unlinked",
+                        "margin": 0,
+                        "marginTablet": 0,
+                        "marginMobile": 0,
+                        "marginTop": 0,
+                        "marginTopTablet": 0,
+                        "marginTopMobile": 0,
+                        "marginBottom": 25,
+                        "marginBottomTablet": 25,
+                        "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2>We are real people.</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d8590716\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d8590716\" style=\"color:#000000;font-style:normal;text-transform:none\">We are real people.</h2>"
                 },
                 {
-                    "clientId": "f3676ded-902d-4706-b015-efca2548c887",
+                    "clientId": "49f74c72-2872-4f37-bf6b-141b759b9ad4",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
@@ -299,7 +336,7 @@
                     "originalContent": "<p>Click edit button to change this text. Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper  mattis, pulvinar dapibus leo.</p>"
                 },
                 {
-                    "clientId": "90919dd8-2cc2-45b3-ad47-e330f99086f9",
+                    "clientId": "e59afef5-934f-4837-a21d-e71d52373ef9",
                     "name": "core/separator",
                     "isValid": true,
                     "attributes": {},
@@ -307,7 +344,7 @@
                     "originalContent": "<hr class=\"wp-block-separator\"/>"
                 },
                 {
-                    "clientId": "440ecfe0-6fae-49b1-b5c8-0af24d3cb60c",
+                    "clientId": "c471eb1f-c1e3-4c15-9b28-f960fdd4e76e",
                     "name": "themeisle-blocks/sharing-icons",
                     "isValid": true,
                     "attributes": {
@@ -327,5 +364,5 @@
             "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-9bff6636\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n\n\n</div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap\" id=\"wp-block-themeisle-blocks-advanced-columns-b27333b9\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset;align-items:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-6f43f9da\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
 }
