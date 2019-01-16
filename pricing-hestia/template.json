@@ -1,5 +1,5 @@
 {
-    "clientId": "8ec4b836-1c60-47d8-8344-3d5497525acc",
+    "clientId": "de657d02-1e1f-4b30-956f-f4b951534bba",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
@@ -42,7 +42,6 @@
         "horizontalAlign": "unset",
         "verticalAlign": "unset",
         "backgroundType": "color",
-        "backgroundColor": "#f0f0f0",
         "backgroundAttachment": "scroll",
         "backgroundPosition": "top left",
         "backgroundRepeat": "repeat",
@@ -120,7 +119,7 @@
     },
     "innerBlocks": [
         {
-            "clientId": "f2fd9ae9-e3ef-4bae-b2a6-e2a7d7e4ddd0",
+            "clientId": "ca274007-d323-4524-8ed7-a4bdf17140b3",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -190,7 +189,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "c8f6817e-ba42-47aa-9d57-8772391993cf",
+                    "clientId": "0e8fdf90-a393-4871-9226-1ab70c73956a",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
@@ -240,10 +239,10 @@
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-defbbab9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-defbbab9\" style=\"color:#3c4858;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Choose a plan for your next project</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-c8f6817e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c8f6817e\" style=\"color:#3c4858;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Choose a plan for your next project</h2>"
                 },
                 {
-                    "clientId": "d3b17d3e-0570-47a9-b707-c08efe02b022",
+                    "clientId": "f4a90986-d72b-4546-8121-18610bcde079",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
@@ -291,13 +290,13 @@
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-3a18fe29\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3a18fe29\" style=\"color:#999999;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+                    "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-d3b17d3e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d3b17d3e\" style=\"color:#999999;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-79bd7a1a\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-f2fd9ae9\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
         },
         {
-            "clientId": "1d9cc988-7ff1-4ad3-9bcc-714e59d4c0bb",
+            "clientId": "2adc60e2-994b-4938-883d-e5cc17059579",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -367,7 +366,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "6ecd56fa-3cee-4600-a2b7-2154da82b701",
+                    "clientId": "ea85765c-1bed-4d76-a07a-dfad8d374177",
                     "name": "themeisle-blocks/advanced-columns",
                     "isValid": true,
                     "attributes": {
@@ -486,7 +485,7 @@
                     },
                     "innerBlocks": [
                         {
-                            "clientId": "96385caa-4c73-466f-acfa-0ff420c955ab",
+                            "clientId": "92cef451-1985-4ba8-9e8b-6f71b2dce42d",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
@@ -534,19 +533,19 @@
                                 "backgroundGradientAngle": 90,
                                 "backgroundGradientPosition": "center center",
                                 "borderType": "linked",
-                                "border": 0,
+                                "border": 1,
                                 "borderTop": 0,
                                 "borderRight": 0,
                                 "borderBottom": 0,
                                 "borderLeft": 0,
-                                "borderColor": "#000000",
+                                "borderColor": "#e0e3e8",
                                 "borderRadiusType": "linked",
-                                "borderRadius": 0,
+                                "borderRadius": 3,
                                 "borderRadiusTop": 0,
                                 "borderRadiusRight": 0,
                                 "borderRadiusBottom": 0,
                                 "borderRadiusLeft": 0,
-                                "boxShadow": true,
+                                "boxShadow": false,
                                 "boxShadowColor": "#000000",
                                 "boxShadowColorOpacity": 50,
                                 "boxShadowBlur": 40,
@@ -557,13 +556,13 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "40180e4c-d313-4a78-9302-9945fd702643",
+                                    "clientId": "d6d2a128-1076-43c4-a99e-f0bb9a9204a4",
                                     "name": "themeisle-blocks/pricing",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "9fc686c5-3031-4499-b0d8-76fb1e168ef0",
+                                            "clientId": "5aaf316a-2d7a-411d-ab61-db8e6a481fac",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -611,17 +610,27 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-1ce346b0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1ce346b0\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Basic</h5>"
+                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-9fc686c5\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-9fc686c5\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Basic</h5>"
                                         },
                                         {
-                                            "clientId": "392c8f3b-5a1e-4072-9ef8-487ea5aeb097",
+                                            "clientId": "201b4d72-4517-41c4-ada3-88ac5ed508d3",
+                                            "name": "core/separator",
+                                            "isValid": true,
+                                            "attributes": {
+                                                "className": "is-style-wide"
+                                            },
+                                            "innerBlocks": [],
+                                            "originalContent": "<hr class=\"wp-block-separator is-style-wide\"/>"
+                                        },
+                                        {
+                                            "clientId": "6d96e6b6-eedf-4035-b9b4-74eee29405b8",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
                                                 "content": "$9.99",
                                                 "tag": "h3",
                                                 "align": "center",
-                                                "headingColor": "#000000",
+                                                "headingColor": "#239ddb",
                                                 "fontSize": 36,
                                                 "fontFamily": "Roboto Slab",
                                                 "fontVariant": "normal",
@@ -660,22 +669,22 @@
                                                 "marginTop": 0,
                                                 "marginTopTablet": 0,
                                                 "marginTopMobile": 0,
-                                                "marginBottom": 25,
-                                                "marginBottomTablet": 25,
-                                                "marginBottomMobile": 20
+                                                "marginBottom": 0,
+                                                "marginBottomTablet": 0,
+                                                "marginBottomMobile": 0
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-d2fc526b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d2fc526b\" style=\"text-align:center;color:#000000;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$9.99</h3>"
+                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-392c8f3b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-392c8f3b\" style=\"text-align:center;color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$9.99</h3>"
                                         },
                                         {
-                                            "clientId": "7b74e185-fbff-43b2-a077-dfde6516852a",
+                                            "clientId": "def37aa8-2946-441f-8e2e-93e865449253",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "content": "Per Month",
+                                                "content": "/month",
                                                 "tag": "p",
                                                 "align": "center",
-                                                "headingColor": "#000000",
+                                                "headingColor": "#999999",
                                                 "fontSize": 16,
                                                 "fontStyle": "normal",
                                                 "textTransform": "none",
@@ -717,10 +726,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-14aebe35\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-14aebe35\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Per Month</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-7b74e185\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7b74e185\" style=\"text-align:center;color:#999999;font-style:normal;text-transform:none\">/month</p>"
                                         },
                                         {
-                                            "clientId": "735f60ea-63e7-4590-9b64-a4fb59d695fc",
+                                            "clientId": "620a907c-5cec-43e2-984b-9affc35d107a",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -769,10 +778,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-e6cf4605\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e6cf4605\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-735f60ea\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-735f60ea\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
                                         },
                                         {
-                                            "clientId": "d7d8d6bf-30b2-4c53-8fc8-52436b76c13a",
+                                            "clientId": "5bae9284-adac-4270-bb56-01a6f61bada7",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -821,10 +830,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-1ff14142\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1ff14142\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-d7d8d6bf\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d7d8d6bf\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
                                         },
                                         {
-                                            "clientId": "cd72c29b-5a1a-42d2-9132-bb0353ebf4e2",
+                                            "clientId": "63b6ba24-d026-43a6-8238-8709579b19b5",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -873,10 +882,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-b5588a71\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b5588a71\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-cd72c29b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cd72c29b\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
                                         },
                                         {
-                                            "clientId": "ef2211e7-cdb8-4327-ab40-cc4cf67fc7e2",
+                                            "clientId": "975510fb-4d36-4cfb-a87f-8e854ceef638",
                                             "name": "themeisle-blocks/button-group",
                                             "isValid": true,
                                             "attributes": {
@@ -893,9 +902,9 @@
                                                         "text": "Buy Now",
                                                         "newTab": false,
                                                         "color": "#ffffff",
-                                                        "background": "#e91e63",
+                                                        "background": "#239ddb",
                                                         "hoverColor": "#ffffff",
-                                                        "hoverBackground": "#e91e63",
+                                                        "hoverBackground": "#33a7e1",
                                                         "borderSize": 0,
                                                         "borderRadius": 3,
                                                         "boxShadow": true,
@@ -912,21 +921,21 @@
                                                         "iconType": "none",
                                                         "paddingTopBottom": 12,
                                                         "paddingLeftRight": 24,
-                                                        "hoverBoxShadowColor": "#e91e63"
+                                                        "hoverBoxShadowColor": "#239ddb"
                                                     }
                                                 ]
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-07bca023\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-ef2211e7\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
-                                    "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n</div>"
+                                    "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-89f0283c\" style=\"background:#FFF;border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;box-shadow:0px 25px 40px -12px rgba(0, 0, 0, 0.5)\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-96385caa\" style=\"background:#FFF;border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
                         },
                         {
-                            "clientId": "1bd7c78a-cc2b-41ee-9046-2d4151ccbfb9",
+                            "clientId": "2aaaed1b-0660-43f4-9a82-356ccfdb6392",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
@@ -973,14 +982,14 @@
                                 "backgroundGradientAngle": 90,
                                 "backgroundGradientPosition": "center center",
                                 "borderType": "linked",
-                                "border": 0,
+                                "border": 1,
                                 "borderTop": 0,
                                 "borderRight": 0,
                                 "borderBottom": 0,
                                 "borderLeft": 0,
-                                "borderColor": "#000000",
+                                "borderColor": "#e0e3e8",
                                 "borderRadiusType": "linked",
-                                "borderRadius": 0,
+                                "borderRadius": 3,
                                 "borderRadiusTop": 0,
                                 "borderRadiusRight": 0,
                                 "borderRadiusBottom": 0,
@@ -996,13 +1005,13 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "b0ede837-1ec7-4111-a555-bb4c904135cc",
+                                    "clientId": "4729d1a2-a847-4c95-ae5d-bba025ea6a06",
                                     "name": "themeisle-blocks/pricing",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "527d794d-7e8e-4902-a65e-7719844d4506",
+                                            "clientId": "d783ceed-faf5-404b-8249-83ddbd6294e1",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -1050,17 +1059,27 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-ef2b552d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ef2b552d\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Premium</h5>"
+                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-527d794d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-527d794d\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Premium</h5>"
                                         },
                                         {
-                                            "clientId": "c2e2897f-26d4-41cf-ae9a-275dcf832147",
+                                            "clientId": "2e45d776-ea0d-47e7-9048-de09690ea79a",
+                                            "name": "core/separator",
+                                            "isValid": true,
+                                            "attributes": {
+                                                "className": "is-style-wide"
+                                            },
+                                            "innerBlocks": [],
+                                            "originalContent": "<hr class=\"wp-block-separator is-style-wide\"/>"
+                                        },
+                                        {
+                                            "clientId": "bcb13bc1-09ed-43ee-8100-598f7f4384e2",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
                                                 "content": "$19.99",
                                                 "tag": "h3",
                                                 "align": "center",
-                                                "headingColor": "#000000",
+                                                "headingColor": "#239ddb",
                                                 "fontSize": 36,
                                                 "fontFamily": "Roboto Slab",
                                                 "fontVariant": "normal",
@@ -1099,22 +1118,22 @@
                                                 "marginTop": 0,
                                                 "marginTopTablet": 0,
                                                 "marginTopMobile": 0,
-                                                "marginBottom": 25,
-                                                "marginBottomTablet": 25,
-                                                "marginBottomMobile": 20
+                                                "marginBottom": 0,
+                                                "marginBottomTablet": 0,
+                                                "marginBottomMobile": 0
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-79332b55\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-79332b55\" style=\"text-align:center;color:#000000;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$19.99</h3>"
+                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-c2e2897f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c2e2897f\" style=\"text-align:center;color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$19.99</h3>"
                                         },
                                         {
-                                            "clientId": "1f1cddb3-c120-45ce-8980-530b44b220ec",
+                                            "clientId": "95a7ab31-3e8a-4cfe-9360-31db40122142",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "content": "Per Month",
+                                                "content": "/month",
                                                 "tag": "p",
                                                 "align": "center",
-                                                "headingColor": "#000000",
+                                                "headingColor": "#999999",
                                                 "fontSize": 16,
                                                 "fontStyle": "normal",
                                                 "textTransform": "none",
@@ -1156,10 +1175,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-c53d8de2\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c53d8de2\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Per Month</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-1f1cddb3\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1f1cddb3\" style=\"text-align:center;color:#999999;font-style:normal;text-transform:none\">/month</p>"
                                         },
                                         {
-                                            "clientId": "9002c795-4214-4b19-becd-bd839ebd52d0",
+                                            "clientId": "4baa817d-ecc0-4fcd-acd2-d26e55d52a1c",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -1208,10 +1227,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-5dc7114b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5dc7114b\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-9002c795\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-9002c795\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
                                         },
                                         {
-                                            "clientId": "b9e62c57-595c-4748-81ba-0ffe0248b6ea",
+                                            "clientId": "48a5d487-e7de-4675-a93c-4d81bd65e918",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -1260,10 +1279,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-263405c3\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-263405c3\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-b9e62c57\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b9e62c57\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
                                         },
                                         {
-                                            "clientId": "4c308a2e-dbb3-4b8e-9df4-0293ce6816f0",
+                                            "clientId": "450cce32-7bfb-42c1-b12b-62ab228e80ec",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
@@ -1312,10 +1331,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-9e1efc03\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-9e1efc03\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-4c308a2e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4c308a2e\" style=\"text-align:center;color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
                                         },
                                         {
-                                            "clientId": "2da9e194-66bf-4887-adf4-9b7832f56dd9",
+                                            "clientId": "d2fdb0c6-6261-4808-93c1-6c35b1683988",
                                             "name": "themeisle-blocks/button-group",
                                             "isValid": true,
                                             "attributes": {
@@ -1332,9 +1351,9 @@
                                                         "text": "Buy Now",
                                                         "newTab": false,
                                                         "color": "#ffffff",
-                                                        "background": "#e91e63",
+                                                        "background": "#239ddb",
                                                         "hoverColor": "#ffffff",
-                                                        "hoverBackground": "#e91e63",
+                                                        "hoverBackground": "#33a7e1",
                                                         "borderSize": 0,
                                                         "borderRadius": 3,
                                                         "boxShadow": true,
@@ -1351,25 +1370,26 @@
                                                         "iconType": "none",
                                                         "paddingTopBottom": 12,
                                                         "paddingLeftRight": 24,
-                                                        "hoverBoxShadowColor": "#e91e63"
+                                                        "hoverBoxShadowColor": "#239ddb",
+                                                        "boxShadowColor": "#239ddb"
                                                     }
                                                 ]
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-7f7abb1d\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-2da9e194\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
-                                    "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n</div>"
+                                    "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-3eb6b1c9\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-1bd7c78a\" style=\"border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
                         }
                     ],
-                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-3523a8a1\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-6ecd56fa\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-88a6a798\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-1d9cc988\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-wider-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-816589b8\" style=\"background:#f0f0f0;border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-wider-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-8ec4b836\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
 }
