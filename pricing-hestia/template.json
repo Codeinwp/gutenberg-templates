@@ -891,7 +891,6 @@
                                             "attributes": {
                                                 "buttons": 1,
                                                 "align": "center",
-                                                "collapse": "collapse-none",
                                                 "spacing": 20,
                                                 "fontSize": 14,
                                                 "fontFamily": "Roboto",
@@ -927,7 +926,7 @@
                                                 ]
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-ef2211e7\" class=\"wp-block-themeisle-blocks-button-group collapse-none\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-ef2211e7\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
@@ -1342,7 +1341,6 @@
                                                 "buttons": 1,
                                                 "align": "center",
                                                 "spacing": 20,
-                                                "collapse": "collapse-none",
                                                 "fontSize": 14,
                                                 "fontFamily": "Roboto",
                                                 "fontVariant": "normal",
@@ -1378,7 +1376,7 @@
                                                 ]
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-2da9e194\" class=\"wp-block-themeisle-blocks-button-group collapse-none\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-2da9e194\" class=\"wp-block-themeisle-blocks-button-group\" style=\"justify-content:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
