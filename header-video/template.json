@@ -304,6 +304,7 @@
                     "attributes": {
                         "buttons": 1,
                         "spacing": 20,
+                        "collapse": "collapse-none",
                         "fontSize": 12,
                         "fontFamily": "Roboto",
                         "fontVariant": "normal",
@@ -375,7 +376,7 @@
                         ]
                     },
                     "innerBlocks": [],
-                    "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-fe6ce7b1\" class=\"wp-block-themeisle-blocks-button-group\"><a href=\"\" target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:12px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><i class=\"fas fa-fw fa-download margin-right\"></i><span>Download</span></a></div>"
+                    "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-fe6ce7b1\" class=\"wp-block-themeisle-blocks-button-group collapse-none\"><a href=\"\" target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:12px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><i class=\"fas fa-fw fa-download margin-right\"></i><span>Download</span></a></div>"
                 }
             ],
             "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-638d5f9a\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n</div>"
