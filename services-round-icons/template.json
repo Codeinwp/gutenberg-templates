@@ -1,8 +1,9 @@
 {
-    "clientId": "e34eb275-2cce-456a-8aae-6a67227b53b2",
+    "clientId": "735d0978-ac64-4500-ae25-8cb6a138b51c",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
+        "id": "wp-block-themeisle-blocks-advanced-columns-1f953713",
         "columns": 1,
         "layout": "equal",
         "layoutTablet": "equal",
@@ -38,8 +39,9 @@
         "marginBottom": 20,
         "marginBottomTablet": 20,
         "marginBottomMobile": 20,
+        "columnsWidth": 1170,
         "columnsHeight": "auto",
-        "horizontalAlign": "unset",
+        "horizontalAlign": "center",
         "verticalAlign": "unset",
         "backgroundType": "color",
         "backgroundAttachment": "scroll",
@@ -119,16 +121,17 @@
     },
     "innerBlocks": [
         {
-            "clientId": "720c0d6d-b77d-4a04-be46-212b8e065f5d",
+            "clientId": "8f352a79-9651-413a-8421-13dadae04e63",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
+                "id": "wp-block-themeisle-blocks-advanced-column-e8669b73",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
-                "padding": 20,
-                "paddingTablet": 20,
-                "paddingMobile": 20,
+                "padding": 0,
+                "paddingTablet": 0,
+                "paddingMobile": 0,
                 "paddingTop": 20,
                 "paddingTopTablet": 20,
                 "paddingTopMobile": 20,
@@ -144,15 +147,21 @@
                 "marginType": "linked",
                 "marginTypeTablet": "linked",
                 "marginTypeMobile": "linked",
-                "margin": 20,
-                "marginTablet": 20,
-                "marginMobile": 20,
+                "margin": 0,
+                "marginTablet": 0,
+                "marginMobile": 0,
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
+                "marginRight": 0,
+                "marginRightTablet": 0,
+                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
+                "marginLeft": 0,
+                "marginLeftTablet": 0,
+                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -189,10 +198,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "84d6b40e-4eb8-4d23-aad0-088a1c2706d3",
+                    "clientId": "ec02a009-373f-4593-aad6-c23f73c3b405",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
+                        "id": "wp-block-themeisle-blocks-advanced-heading-fa9de99a",
                         "content": "What Makes Us Unique",
                         "tag": "h2",
                         "align": "center",
@@ -240,42 +250,43 @@
                         "marginBottomMobile": 0
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-3f518f9d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3f518f9d\" style=\"text-align:center;color:#000000;font-family:Roboto;font-weight:900;font-style:normal;text-transform:none\">What Makes Us Unique</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-fa9de99a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-fa9de99a\" style=\"color:#000000;font-family:Roboto;font-weight:900;font-style:normal;text-transform:none\">What Makes Us Unique</h2>"
                 },
                 {
-                    "clientId": "7538e4a8-1e36-447a-924d-7a88b4463650",
+                    "clientId": "f4d871f6-e560-4006-90e6-a0204cc8cea8",
                     "name": "themeisle-blocks/advanced-columns",
                     "isValid": true,
                     "attributes": {
+                        "id": "wp-block-themeisle-blocks-advanced-columns-309c9fa4",
                         "columns": 3,
                         "layout": "equal",
                         "layoutTablet": "equal",
                         "layoutMobile": "collapsedRows",
-                        "columnsGap": "default",
+                        "columnsGap": "extended",
                         "paddingType": "unlinked",
                         "paddingTypeTablet": "linked",
                         "paddingTypeMobile": "linked",
                         "padding": 20,
-                        "paddingTablet": 20,
-                        "paddingMobile": 20,
+                        "paddingTablet": 0,
+                        "paddingMobile": 0,
                         "paddingTop": 20,
                         "paddingTopTablet": 20,
                         "paddingTopMobile": 20,
-                        "paddingRight": 150,
+                        "paddingRight": 20,
                         "paddingRightTablet": 20,
                         "paddingRightMobile": 20,
                         "paddingBottom": 20,
                         "paddingBottomTablet": 20,
                         "paddingBottomMobile": 20,
-                        "paddingLeft": 150,
+                        "paddingLeft": 20,
                         "paddingLeftTablet": 20,
                         "paddingLeftMobile": 20,
                         "marginType": "linked",
                         "marginTypeTablet": "linked",
                         "marginTypeMobile": "linked",
-                        "margin": 20,
-                        "marginTablet": 20,
-                        "marginMobile": 20,
+                        "margin": 0,
+                        "marginTablet": 0,
+                        "marginMobile": 0,
                         "marginTop": 20,
                         "marginTopTablet": 20,
                         "marginTopMobile": 20,
@@ -362,10 +373,11 @@
                     },
                     "innerBlocks": [
                         {
-                            "clientId": "e5959cfe-9aa5-4210-9fee-a63f777cd0f0",
+                            "clientId": "3afe5ae0-5d2e-4869-860c-f47763f3c372",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
+                                "id": "wp-block-themeisle-blocks-advanced-column-b7b3d2c7",
                                 "paddingType": "unlinked",
                                 "paddingTypeTablet": "unlinked",
                                 "paddingTypeMobile": "unlinked",
@@ -373,17 +385,17 @@
                                 "paddingTablet": 20,
                                 "paddingMobile": 20,
                                 "paddingTop": 25,
-                                "paddingTopTablet": 25,
-                                "paddingTopMobile": 25,
-                                "paddingRight": 50,
-                                "paddingRightTablet": 20,
-                                "paddingRightMobile": 20,
+                                "paddingTopTablet": 20,
+                                "paddingTopMobile": 15,
+                                "paddingRight": 20,
+                                "paddingRightTablet": 15,
+                                "paddingRightMobile": 10,
                                 "paddingBottom": 25,
-                                "paddingBottomTablet": 25,
-                                "paddingBottomMobile": 25,
-                                "paddingLeft": 50,
-                                "paddingLeftTablet": 20,
-                                "paddingLeftMobile": 20,
+                                "paddingBottomTablet": 20,
+                                "paddingBottomMobile": 15,
+                                "paddingLeft": 20,
+                                "paddingLeftTablet": 15,
+                                "paddingLeftMobile": 10,
                                 "marginType": "linked",
                                 "marginTypeTablet": "linked",
                                 "marginTypeMobile": "linked",
@@ -393,9 +405,15 @@
                                 "marginTop": 20,
                                 "marginTopTablet": 20,
                                 "marginTopMobile": 20,
+                                "marginRight": 0,
+                                "marginRightTablet": 0,
+                                "marginRightMobile": 0,
                                 "marginBottom": 20,
                                 "marginBottomTablet": 20,
                                 "marginBottomMobile": 20,
+                                "marginLeft": 0,
+                                "marginLeftTablet": 0,
+                                "marginLeftMobile": 0,
                                 "backgroundType": "color",
                                 "backgroundAttachment": "scroll",
                                 "backgroundPosition": "top left",
@@ -432,13 +450,13 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "1cccf95c-db52-4a5e-9255-5ce107e09c2d",
+                                    "clientId": "e48157e2-70cb-4fe3-ae82-db9e2cc63b65",
                                     "name": "themeisle-blocks/service",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "ee01e4a2-e8c7-4ea9-bd8e-ccdca980e1e3",
+                                            "clientId": "5b72411f-4e0e-48e5-8934-3dc7eb2cbb62",
                                             "name": "themeisle-blocks/font-awesome-icons",
                                             "isValid": true,
                                             "attributes": {
@@ -456,10 +474,11 @@
                                             "originalContent": "<p class=\"wp-block-themeisle-blocks-font-awesome-icons\"><span class=\"undefined-container\" style=\"color:#00bcd4;border-color:#e0e0e0;border-radius:100%;border-style:solid;border-width:1px;display:inline-block;margin:5px\"><i class=\"fas fa-th\" style=\"border-radius:100%;font-size:24px;padding:25px\"></i></span></p>"
                                         },
                                         {
-                                            "clientId": "b6b96f44-70eb-4d4c-9de3-a873d18ff96a",
+                                            "clientId": "b083fe21-a28d-4ea8-a9c6-94321a3e5722",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-3e75e5b0",
                                                 "content": "Responsive",
                                                 "tag": "h4",
                                                 "align": "center",
@@ -507,13 +526,14 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-f221c145\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f221c145\" style=\"text-align:center;color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Responsive</h4>"
+                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-3e75e5b0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3e75e5b0\" style=\"color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Responsive</h4>"
                                         },
                                         {
-                                            "clientId": "090cb7db-0d08-44d4-b076-629100032e59",
+                                            "clientId": "5d2cac71-6949-4b61-8ac1-4858ec4a11d8",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-a88a8c35",
                                                 "content": "Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.",
                                                 "tag": "p",
                                                 "align": "center",
@@ -561,19 +581,20 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-1ef67bd4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1ef67bd4\" style=\"text-align:center;color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-a88a8c35\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a88a8c35\" style=\"color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-service\">\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-846eb5a7\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-b7b3d2c7\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
                         },
                         {
-                            "clientId": "fb73543f-45b6-4ca1-8a82-658b6136cb4f",
+                            "clientId": "7f31e328-6c9e-41cf-9477-7caea5cbb46a",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
+                                "id": "wp-block-themeisle-blocks-advanced-column-4e2d3e41",
                                 "paddingType": "unlinked",
                                 "paddingTypeTablet": "unlinked",
                                 "paddingTypeMobile": "unlinked",
@@ -581,17 +602,17 @@
                                 "paddingTablet": 20,
                                 "paddingMobile": 20,
                                 "paddingTop": 25,
-                                "paddingTopTablet": 25,
-                                "paddingTopMobile": 25,
-                                "paddingRight": 50,
-                                "paddingRightTablet": 20,
-                                "paddingRightMobile": 20,
+                                "paddingTopTablet": 20,
+                                "paddingTopMobile": 20,
+                                "paddingRight": 20,
+                                "paddingRightTablet": 15,
+                                "paddingRightMobile": 15,
                                 "paddingBottom": 25,
-                                "paddingBottomTablet": 25,
-                                "paddingBottomMobile": 25,
-                                "paddingLeft": 50,
-                                "paddingLeftTablet": 20,
-                                "paddingLeftMobile": 20,
+                                "paddingBottomTablet": 20,
+                                "paddingBottomMobile": 20,
+                                "paddingLeft": 20,
+                                "paddingLeftTablet": 15,
+                                "paddingLeftMobile": 15,
                                 "marginType": "linked",
                                 "marginTypeTablet": "linked",
                                 "marginTypeMobile": "linked",
@@ -601,9 +622,15 @@
                                 "marginTop": 20,
                                 "marginTopTablet": 20,
                                 "marginTopMobile": 20,
+                                "marginRight": 0,
+                                "marginRightTablet": 0,
+                                "marginRightMobile": 0,
                                 "marginBottom": 20,
                                 "marginBottomTablet": 20,
                                 "marginBottomMobile": 20,
+                                "marginLeft": 0,
+                                "marginLeftTablet": 0,
+                                "marginLeftMobile": 0,
                                 "backgroundType": "color",
                                 "backgroundAttachment": "scroll",
                                 "backgroundPosition": "top left",
@@ -640,13 +667,13 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "bef919f5-195b-4f5d-b2ee-be52ea272fc0",
+                                    "clientId": "f1701841-92d5-4c72-a8a7-420aeeb0f5f1",
                                     "name": "themeisle-blocks/service",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "15889c1b-32c5-4496-a79d-231451ec8e01",
+                                            "clientId": "84d4efb4-f259-4d0c-b677-71eff1e83726",
                                             "name": "themeisle-blocks/font-awesome-icons",
                                             "isValid": true,
                                             "attributes": {
@@ -664,10 +691,11 @@
                                             "originalContent": "<p class=\"wp-block-themeisle-blocks-font-awesome-icons\"><span class=\"undefined-container\" style=\"color:#00bcd4;border-color:#e0e0e0;border-radius:100%;border-style:solid;border-width:1px;display:inline-block;margin:5px\"><i class=\"far fa-thumbs-up\" style=\"border-radius:100%;font-size:24px;padding:25px\"></i></span></p>"
                                         },
                                         {
-                                            "clientId": "ac5817dc-a283-4d0d-8a86-a3c09cf943bd",
+                                            "clientId": "f68a4d2f-3c78-4ae4-baae-33a3e61189bc",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-d90e1970",
                                                 "content": "Efficient",
                                                 "tag": "h4",
                                                 "align": "center",
@@ -715,13 +743,14 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-6fe69686\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6fe69686\" style=\"text-align:center;color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Efficient</h4>"
+                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-d90e1970\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d90e1970\" style=\"color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Efficient</h4>"
                                         },
                                         {
-                                            "clientId": "d00dd15e-d45c-4d99-89e5-d6f2665cbaae",
+                                            "clientId": "35702b75-1113-4cb8-8f6b-3b3295b74b76",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-dd3d64e8",
                                                 "content": "Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.",
                                                 "tag": "p",
                                                 "align": "center",
@@ -769,19 +798,20 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-463acafa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-463acafa\" style=\"text-align:center;color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-dd3d64e8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-dd3d64e8\" style=\"color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-service\">\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-d31eb326\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-4e2d3e41\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
                         },
                         {
-                            "clientId": "1b31d48c-67b9-40d3-96e9-7d0611c053ef",
+                            "clientId": "a0c60b53-39b8-4404-b0e3-74252f37fa69",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
+                                "id": "wp-block-themeisle-blocks-advanced-column-e0387e1d",
                                 "paddingType": "unlinked",
                                 "paddingTypeTablet": "unlinked",
                                 "paddingTypeMobile": "unlinked",
@@ -789,17 +819,17 @@
                                 "paddingTablet": 20,
                                 "paddingMobile": 20,
                                 "paddingTop": 25,
-                                "paddingTopTablet": 25,
-                                "paddingTopMobile": 25,
-                                "paddingRight": 50,
-                                "paddingRightTablet": 20,
-                                "paddingRightMobile": 20,
+                                "paddingTopTablet": 20,
+                                "paddingTopMobile": 15,
+                                "paddingRight": 20,
+                                "paddingRightTablet": 15,
+                                "paddingRightMobile": 10,
                                 "paddingBottom": 25,
-                                "paddingBottomTablet": 25,
-                                "paddingBottomMobile": 25,
-                                "paddingLeft": 50,
-                                "paddingLeftTablet": 20,
-                                "paddingLeftMobile": 20,
+                                "paddingBottomTablet": 20,
+                                "paddingBottomMobile": 15,
+                                "paddingLeft": 20,
+                                "paddingLeftTablet": 15,
+                                "paddingLeftMobile": 10,
                                 "marginType": "linked",
                                 "marginTypeTablet": "linked",
                                 "marginTypeMobile": "linked",
@@ -809,9 +839,15 @@
                                 "marginTop": 20,
                                 "marginTopTablet": 20,
                                 "marginTopMobile": 20,
+                                "marginRight": 0,
+                                "marginRightTablet": 0,
+                                "marginRightMobile": 0,
                                 "marginBottom": 20,
                                 "marginBottomTablet": 20,
                                 "marginBottomMobile": 20,
+                                "marginLeft": 0,
+                                "marginLeftTablet": 0,
+                                "marginLeftMobile": 0,
                                 "backgroundType": "color",
                                 "backgroundAttachment": "scroll",
                                 "backgroundPosition": "top left",
@@ -848,13 +884,13 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "25f76b8e-f064-4628-bfd2-f40da208b20b",
+                                    "clientId": "73cde5f3-7c3e-45a4-a633-61db7ae168c7",
                                     "name": "themeisle-blocks/service",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "95179740-9b1b-43a2-893b-ae7552f920dc",
+                                            "clientId": "f3aa5e6e-5e4d-4d7a-bbf4-c6f857155a74",
                                             "name": "themeisle-blocks/font-awesome-icons",
                                             "isValid": true,
                                             "attributes": {
@@ -872,10 +908,11 @@
                                             "originalContent": "<p class=\"wp-block-themeisle-blocks-font-awesome-icons\"><span class=\"undefined-container\" style=\"color:#00bcd4;border-color:#e0e0e0;border-radius:100%;border-style:solid;border-width:1px;display:inline-block;margin:5px\"><i class=\"far fa-comment\" style=\"border-radius:100%;font-size:24px;padding:25px\"></i></span></p>"
                                         },
                                         {
-                                            "clientId": "f7e79bba-4dcd-4267-9ed3-e1b9a791aa17",
+                                            "clientId": "14b485c8-96d1-408f-9a56-ff255f14a629",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-5f87ff3a",
                                                 "content": "Quick Support",
                                                 "tag": "h4",
                                                 "align": "center",
@@ -923,13 +960,14 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-e52eb2d1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e52eb2d1\" style=\"text-align:center;color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Quick Support</h4>"
+                                            "originalContent": "<h4 id=\"wp-block-themeisle-blocks-advanced-heading-5f87ff3a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5f87ff3a\" style=\"color:#000000;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Quick Support</h4>"
                                         },
                                         {
-                                            "clientId": "b2fb8c68-444b-4e6e-a828-9bf0d82ac11f",
+                                            "clientId": "6d00b64d-3abf-48c6-a92d-1e03c2f30c05",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
+                                                "id": "wp-block-themeisle-blocks-advanced-heading-041a6bd5",
                                                 "content": "Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.",
                                                 "tag": "p",
                                                 "align": "center",
@@ -977,20 +1015,20 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-93212a9e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-93212a9e\" style=\"text-align:center;color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-041a6bd5\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-041a6bd5\" style=\"color:#000000;font-family:Lora;font-weight:normal;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet elit do, consectetur dolor sit amet elit do, consectetur.. Lorem ipsum dolor sit amet elit do, consectetur.</p>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-service\">\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-05ac096a\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e0387e1d\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
                         }
                     ],
-                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-0845f818\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n\n\n</div></div>"
+                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-309c9fa4\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n\n\n</div></div>"
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e9431b06\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e8669b73\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-d79e6729\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\"></div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-1f953713\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:center\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\" style=\"max-width:1170px\"></div></div>"
 }

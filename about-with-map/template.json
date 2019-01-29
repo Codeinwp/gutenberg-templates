@@ -1,8 +1,9 @@
 {
-    "clientId": "38952f05-8fc5-4814-b71a-2614c7a65a5e",
+    "clientId": "b9d1f9c9-2998-452d-9c97-3cf3b3b3fa91",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
+        "id": "wp-block-themeisle-blocks-advanced-columns-0f927388",
         "columns": 2,
         "layout": "equal",
         "layoutTablet": "equal",
@@ -17,27 +18,28 @@
         "paddingTop": 100,
         "paddingTopTablet": 100,
         "paddingTopMobile": 100,
-        "paddingRight": 200,
+        "paddingRight": 0,
         "paddingRightTablet": 20,
         "paddingRightMobile": 20,
         "paddingBottom": 100,
         "paddingBottomTablet": 100,
         "paddingBottomMobile": 100,
-        "paddingLeft": 200,
+        "paddingLeft": 0,
         "paddingLeftTablet": 20,
         "paddingLeftMobile": 20,
         "marginType": "linked",
         "marginTypeTablet": "linked",
         "marginTypeMobile": "linked",
-        "margin": 20,
-        "marginTablet": 20,
-        "marginMobile": 20,
+        "margin": 0,
+        "marginTablet": 0,
+        "marginMobile": 0,
         "marginTop": 20,
         "marginTopTablet": 20,
         "marginTopMobile": 20,
         "marginBottom": 20,
         "marginBottomTablet": 20,
         "marginBottomMobile": 20,
+        "columnsWidth": 1170,
         "columnsHeight": "auto",
         "horizontalAlign": "unset",
         "verticalAlign": "unset",
@@ -119,14 +121,15 @@
     },
     "innerBlocks": [
         {
-            "clientId": "f2e2541a-2849-4d20-acc1-b1c5f9f39f58",
+            "clientId": "f94ce3a6-4519-45ec-9b59-ceb25c900358",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
+                "id": "wp-block-themeisle-blocks-advanced-column-0486ed3b",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
-                "padding": 20,
+                "padding": 0,
                 "paddingTablet": 20,
                 "paddingMobile": 20,
                 "paddingTop": 20,
@@ -144,15 +147,21 @@
                 "marginType": "linked",
                 "marginTypeTablet": "linked",
                 "marginTypeMobile": "linked",
-                "margin": 20,
+                "margin": 0,
                 "marginTablet": 20,
                 "marginMobile": 20,
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
+                "marginRight": 0,
+                "marginRightTablet": 0,
+                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
+                "marginLeft": 0,
+                "marginLeftTablet": 0,
+                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -189,7 +198,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "9ebe6ae7-8ef9-4796-9493-4e57c8504539",
+                    "clientId": "2dda8761-bdb2-4bfc-831d-7de23c527bec",
                     "name": "themeisle-blocks/google-map",
                     "isValid": true,
                     "attributes": {
@@ -202,17 +211,18 @@
                     "originalContent": ""
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-44be0f99\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-0486ed3b\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
         },
         {
-            "clientId": "d0b243ed-6db9-4b17-92db-7f45352556c5",
+            "clientId": "84180941-5c96-439b-891a-950b40fd73f0",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
+                "id": "wp-block-themeisle-blocks-advanced-column-2f8e44bf",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
-                "padding": 20,
+                "padding": 0,
                 "paddingTablet": 20,
                 "paddingMobile": 20,
                 "paddingTop": 20,
@@ -230,15 +240,21 @@
                 "marginType": "linked",
                 "marginTypeTablet": "linked",
                 "marginTypeMobile": "linked",
-                "margin": 20,
+                "margin": 0,
                 "marginTablet": 20,
                 "marginMobile": 20,
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
+                "marginRight": 0,
+                "marginRightTablet": 0,
+                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
+                "marginLeft": 0,
+                "marginLeftTablet": 0,
+                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -275,10 +291,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "fe63ff86-1ab5-4c90-a9b9-f13c586f8c30",
+                    "clientId": "0d470430-f702-42da-bd12-ddaa263649a0",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
+                        "id": "wp-block-themeisle-blocks-advanced-heading-7c7e2e83",
                         "content": "We are real people.",
                         "tag": "h2",
                         "headingColor": "#000000",
@@ -322,10 +339,10 @@
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d8590716\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d8590716\" style=\"color:#000000;font-style:normal;text-transform:none\">We are real people.</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-7c7e2e83\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7c7e2e83\" style=\"color:#000000;font-style:normal;text-transform:none\">We are real people.</h2>"
                 },
                 {
-                    "clientId": "49f74c72-2872-4f37-bf6b-141b759b9ad4",
+                    "clientId": "e514cb0f-c663-414c-9365-6f1b53646d1f",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
@@ -336,7 +353,7 @@
                     "originalContent": "<p>Click edit button to change this text. Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper  mattis, pulvinar dapibus leo.</p>"
                 },
                 {
-                    "clientId": "e59afef5-934f-4837-a21d-e71d52373ef9",
+                    "clientId": "0a4eb893-c638-4f35-a9fa-d15a92762afe",
                     "name": "core/separator",
                     "isValid": true,
                     "attributes": {},
@@ -344,7 +361,7 @@
                     "originalContent": "<hr class=\"wp-block-separator\"/>"
                 },
                 {
-                    "clientId": "c471eb1f-c1e3-4c15-9b28-f960fdd4e76e",
+                    "clientId": "9de1452d-9df0-48fc-a981-9ede9f6b3126",
                     "name": "themeisle-blocks/sharing-icons",
                     "isValid": true,
                     "attributes": {
@@ -361,8 +378,8 @@
                     "originalContent": ""
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-9bff6636\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n\n\n</div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-2f8e44bf\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n\n\n</div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-6f43f9da\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-0f927388\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\" style=\"max-width:1170px\">\n\n</div></div>"
 }
