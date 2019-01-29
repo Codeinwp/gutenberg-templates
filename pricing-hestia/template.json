@@ -1,37 +1,36 @@
 {
-    "clientId": "c623bf93-9cf9-40c2-a752-4aa84a6965a0",
+    "clientId": "9bb7d6ca-2296-48ae-8f58-5aba0dae0c49",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
-        "id": "wp-block-themeisle-blocks-advanced-columns-6dfe2a61",
         "columns": 2,
         "layout": "oneTwo",
         "layoutTablet": "collapsedRows",
         "layoutMobile": "collapsedRows",
         "columnsGap": "wider",
         "paddingType": "unlinked",
-        "paddingTypeTablet": "unlinked",
-        "paddingTypeMobile": "unlinked",
+        "paddingTypeTablet": "linked",
+        "paddingTypeMobile": "linked",
         "padding": 40,
         "paddingTablet": 50,
         "paddingMobile": 20,
         "paddingTop": 100,
-        "paddingTopTablet": 60,
-        "paddingTopMobile": 60,
-        "paddingRight": 0,
-        "paddingRightTablet": 20,
+        "paddingTopTablet": 100,
+        "paddingTopMobile": 20,
+        "paddingRight": 150,
+        "paddingRightTablet": 100,
         "paddingRightMobile": 20,
         "paddingBottom": 70,
-        "paddingBottomTablet": 40,
-        "paddingBottomMobile": 40,
-        "paddingLeft": 0,
-        "paddingLeftTablet": 20,
+        "paddingBottomTablet": 100,
+        "paddingBottomMobile": 20,
+        "paddingLeft": 150,
+        "paddingLeftTablet": 100,
         "paddingLeftMobile": 20,
         "marginType": "linked",
         "marginTypeTablet": "linked",
         "marginTypeMobile": "linked",
-        "margin": 0,
-        "marginTablet": 0,
+        "margin": 20,
+        "marginTablet": 20,
         "marginMobile": 0,
         "marginTop": 20,
         "marginTopTablet": 20,
@@ -39,9 +38,8 @@
         "marginBottom": 20,
         "marginBottomTablet": 20,
         "marginBottomMobile": 20,
-        "columnsWidth": 1170,
         "columnsHeight": "auto",
-        "horizontalAlign": "center",
+        "horizontalAlign": "unset",
         "verticalAlign": "unset",
         "backgroundType": "color",
         "backgroundAttachment": "scroll",
@@ -121,47 +119,40 @@
     },
     "innerBlocks": [
         {
-            "clientId": "00f234b4-b920-4f03-9a17-60aed6f23dee",
+            "clientId": "b66f2a58-f13d-48ac-b512-f24e0e8325e6",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
-                "id": "wp-block-themeisle-blocks-advanced-column-856369d8",
-                "paddingType": "unlinked",
-                "paddingTypeTablet": "unlinked",
-                "paddingTypeMobile": "unlinked",
+                "paddingType": "linked",
+                "paddingTypeTablet": "linked",
+                "paddingTypeMobile": "linked",
                 "padding": 20,
                 "paddingTablet": 20,
                 "paddingMobile": 20,
-                "paddingTop": 0,
+                "paddingTop": 20,
                 "paddingTopTablet": 20,
                 "paddingTopMobile": 20,
-                "paddingRight": 15,
-                "paddingRightTablet": 15,
-                "paddingRightMobile": 15,
-                "paddingBottom": 0,
+                "paddingRight": 20,
+                "paddingRightTablet": 20,
+                "paddingRightMobile": 20,
+                "paddingBottom": 20,
                 "paddingBottomTablet": 20,
                 "paddingBottomMobile": 20,
-                "paddingLeft": 15,
-                "paddingLeftTablet": 15,
-                "paddingLeftMobile": 15,
+                "paddingLeft": 20,
+                "paddingLeftTablet": 20,
+                "paddingLeftMobile": 20,
                 "marginType": "linked",
                 "marginTypeTablet": "linked",
                 "marginTypeMobile": "linked",
-                "margin": 0,
-                "marginTablet": 0,
-                "marginMobile": 0,
+                "margin": 20,
+                "marginTablet": 20,
+                "marginMobile": 20,
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
-                "marginRight": 0,
-                "marginRightTablet": 0,
-                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
-                "marginLeft": 0,
-                "marginLeftTablet": 0,
-                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -198,14 +189,12 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "449b79bc-2dd5-45e3-b9be-4cde1c22dd25",
+                    "clientId": "98b9b873-ab2a-4524-8fef-67edde39059d",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
-                        "id": "wp-block-themeisle-blocks-advanced-heading-d56542b9",
                         "content": "Choose a plan for your next project",
                         "tag": "h2",
-                        "alignMobile": "center",
                         "headingColor": "#3c4858",
                         "fontSize": 36,
                         "fontFamily": "Roboto Slab",
@@ -242,25 +231,23 @@
                         "margin": 0,
                         "marginTablet": 0,
                         "marginMobile": 0,
-                        "marginTop": 20,
+                        "marginTop": 0,
                         "marginTopTablet": 0,
                         "marginTopMobile": 0,
-                        "marginBottom": 30,
+                        "marginBottom": 25,
                         "marginBottomTablet": 25,
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d56542b9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d56542b9\" style=\"color:#3c4858;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Choose a plan for your next project</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-0e8fdf90\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0e8fdf90\" style=\"color:#3c4858;font-family:Roboto Slab;font-weight:700;font-style:normal;text-transform:none\">Choose a plan for your next project</h2>"
                 },
                 {
-                    "clientId": "f66c29e2-82d6-415d-8791-1da9ad0e4b96",
+                    "clientId": "ba161856-ee55-42ce-8cf4-bac2f42e73b5",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
-                        "id": "wp-block-themeisle-blocks-advanced-heading-785738bb",
                         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                         "tag": "p",
-                        "alignMobile": "center",
                         "headingColor": "#999999",
                         "fontSize": 14,
                         "fontStyle": "normal",
@@ -303,21 +290,20 @@
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-785738bb\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-785738bb\" style=\"color:#999999;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+                    "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-f4a90986\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f4a90986\" style=\"color:#999999;font-style:normal;text-transform:none\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-856369d8\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-ca274007\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n</div>"
         },
         {
-            "clientId": "efbadd94-8872-4c8e-a027-1eacfbfc104c",
+            "clientId": "d65dc401-0688-4eca-9504-6dd41a41bb8b",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
-                "id": "wp-block-themeisle-blocks-advanced-column-6739d943",
                 "paddingType": "linked",
                 "paddingTypeTablet": "linked",
                 "paddingTypeMobile": "linked",
-                "padding": 0,
+                "padding": 20,
                 "paddingTablet": 0,
                 "paddingMobile": 0,
                 "paddingTop": 20,
@@ -335,21 +321,15 @@
                 "marginType": "linked",
                 "marginTypeTablet": "linked",
                 "marginTypeMobile": "linked",
-                "margin": 0,
-                "marginTablet": 0,
-                "marginMobile": 0,
+                "margin": 20,
+                "marginTablet": 20,
+                "marginMobile": 20,
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
-                "marginRight": 0,
-                "marginRightTablet": 0,
-                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
-                "marginLeft": 0,
-                "marginLeftTablet": 0,
-                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -386,11 +366,10 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "4b0dc5df-1211-4739-8e2d-fc03e20c1937",
+                    "clientId": "776012f1-b876-40fb-adc9-49c2701d3cb8",
                     "name": "themeisle-blocks/advanced-columns",
                     "isValid": true,
                     "attributes": {
-                        "id": "wp-block-themeisle-blocks-advanced-columns-c53871df",
                         "columns": 2,
                         "layout": "equal",
                         "layoutTablet": "equal",
@@ -399,19 +378,19 @@
                         "paddingType": "unlinked",
                         "paddingTypeTablet": "linked",
                         "paddingTypeMobile": "linked",
-                        "padding": 20,
-                        "paddingTablet": 20,
-                        "paddingMobile": 20,
-                        "paddingTop": 20,
+                        "padding": 0,
+                        "paddingTablet": 0,
+                        "paddingMobile": 0,
+                        "paddingTop": 0,
                         "paddingTopTablet": 20,
                         "paddingTopMobile": 20,
-                        "paddingRight": 20,
+                        "paddingRight": 50,
                         "paddingRightTablet": 20,
                         "paddingRightMobile": 20,
-                        "paddingBottom": 20,
+                        "paddingBottom": 0,
                         "paddingBottomTablet": 20,
                         "paddingBottomMobile": 20,
-                        "paddingLeft": 20,
+                        "paddingLeft": 50,
                         "paddingLeftTablet": 20,
                         "paddingLeftMobile": 20,
                         "marginType": "linked",
@@ -506,15 +485,14 @@
                     },
                     "innerBlocks": [
                         {
-                            "clientId": "0ff5f6df-80dd-43cc-ace0-d0312b6a53bf",
+                            "clientId": "7feaf0dc-d843-461d-90d7-c214add1224a",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
-                                "id": "wp-block-themeisle-blocks-advanced-column-e2ac8d89",
                                 "paddingType": "linked",
                                 "paddingTypeTablet": "linked",
                                 "paddingTypeMobile": "linked",
-                                "padding": 20,
+                                "padding": 50,
                                 "paddingTablet": 50,
                                 "paddingMobile": 50,
                                 "paddingTop": 50,
@@ -530,23 +508,17 @@
                                 "paddingLeftTablet": 20,
                                 "paddingLeftMobile": 20,
                                 "marginType": "unlinked",
-                                "marginTypeTablet": "unlinked",
-                                "marginTypeMobile": "unlinked",
+                                "marginTypeTablet": "linked",
+                                "marginTypeMobile": "linked",
                                 "margin": 0,
-                                "marginTablet": 20,
+                                "marginTablet": 0,
                                 "marginMobile": 0,
-                                "marginTop": 0,
-                                "marginTopTablet": 0,
+                                "marginTop": 20,
+                                "marginTopTablet": 20,
                                 "marginTopMobile": 20,
-                                "marginRight": 0,
-                                "marginRightTablet": 0,
-                                "marginRightMobile": 0,
-                                "marginBottom": 0,
-                                "marginBottomTablet": 0,
+                                "marginBottom": 20,
+                                "marginBottomTablet": 20,
                                 "marginBottomMobile": 20,
-                                "marginLeft": 0,
-                                "marginLeftTablet": 0,
-                                "marginLeftMobile": 0,
                                 "backgroundType": "color",
                                 "backgroundColor": "#FFF",
                                 "backgroundAttachment": "scroll",
@@ -584,17 +556,16 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "954b86a0-c877-4779-a694-93d11bbefe3d",
+                                    "clientId": "541efa68-3214-4d77-a1d0-7a6aaae55fdd",
                                     "name": "themeisle-blocks/pricing",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "6db3fa86-9924-48c1-85cb-d0f9d13c1e48",
+                                            "clientId": "508a15a7-606e-42a2-bf28-8f45613b344d",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-58c9e222",
                                                 "content": "Basic",
                                                 "tag": "h5",
                                                 "align": "center",
@@ -639,10 +610,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-58c9e222\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-58c9e222\" style=\"color:#000000;font-style:normal;text-transform:none\">Basic</h5>"
+                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-5aaf316a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5aaf316a\" style=\"color:#000000;font-style:normal;text-transform:none\">Basic</h5>"
                                         },
                                         {
-                                            "clientId": "627a1961-d350-4c43-b2ca-e21cac5a77a4",
+                                            "clientId": "adf0e849-acbf-4671-bd02-fc4f993bf432",
                                             "name": "core/separator",
                                             "isValid": true,
                                             "attributes": {
@@ -652,11 +623,10 @@
                                             "originalContent": "<hr class=\"wp-block-separator is-style-wide\"/>"
                                         },
                                         {
-                                            "clientId": "21a2f810-ec2f-4bc2-b457-2b2cd4f64730",
+                                            "clientId": "ee63f909-1c9c-4c9b-8d5b-f80539a1e8df",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-cfc52a5b",
                                                 "content": "$9.99",
                                                 "tag": "h3",
                                                 "align": "center",
@@ -704,14 +674,13 @@
                                                 "marginBottomMobile": 0
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-cfc52a5b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cfc52a5b\" style=\"color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$9.99</h3>"
+                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-6d96e6b6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6d96e6b6\" style=\"color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$9.99</h3>"
                                         },
                                         {
-                                            "clientId": "42b205fa-0063-4879-b557-333ed604ccfe",
+                                            "clientId": "4f1053bb-eeff-474a-a2fe-edf616f3befe",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-311b8445",
                                                 "content": "/month",
                                                 "tag": "p",
                                                 "align": "center",
@@ -757,14 +726,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-311b8445\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-311b8445\" style=\"color:#999999;font-style:normal;text-transform:none\">/month</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-def37aa8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-def37aa8\" style=\"color:#999999;font-style:normal;text-transform:none\">/month</p>"
                                         },
                                         {
-                                            "clientId": "8234da23-5522-47f1-a556-6195c41e7157",
+                                            "clientId": "87c74b98-1dde-4746-9b91-d082683bd183",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-0bca290e",
                                                 "content": "First Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -810,14 +778,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-0bca290e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0bca290e\" style=\"color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-620a907c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-620a907c\" style=\"color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
                                         },
                                         {
-                                            "clientId": "06c08829-8c10-4945-946c-0c92e492c35d",
+                                            "clientId": "40f08fab-47c5-46ca-acf9-d83f5a4ef7d6",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-06310b6f",
                                                 "content": "Second Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -863,14 +830,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-06310b6f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-06310b6f\" style=\"color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-5bae9284\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5bae9284\" style=\"color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
                                         },
                                         {
-                                            "clientId": "031400f3-638b-43db-8d9b-06378f83b2bc",
+                                            "clientId": "39090c41-e7fc-4a9a-962f-d03aeb15bc6d",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-3376fc3d",
                                                 "content": "Last Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -916,14 +882,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-3376fc3d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3376fc3d\" style=\"color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-63b6ba24\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-63b6ba24\" style=\"color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
                                         },
                                         {
-                                            "clientId": "967a9f9b-29b6-4e12-8e46-62e6a25bdb28",
+                                            "clientId": "cb5fbf81-7460-4fcf-bcf5-56d015afd743",
                                             "name": "themeisle-blocks/button-group",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-button-group-a2f51951",
                                                 "buttons": 1,
                                                 "align": "center",
                                                 "spacing": 20,
@@ -963,24 +928,23 @@
                                                 "className": "collapse"
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-a2f51951\" class=\"wp-block-themeisle-blocks-button-group collapse\" style=\"justify-content:center;align-items:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-975510fb\" class=\"wp-block-themeisle-blocks-button-group collapse\" style=\"justify-content:center;align-items:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:regular;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e2ac8d89\" style=\"background:#FFF;border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-92cef451\" style=\"background:#FFF;border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
                         },
                         {
-                            "clientId": "8657d239-088c-4068-9fa8-db3bac9c3e97",
+                            "clientId": "2d2138aa-9da9-4547-aaef-3a72a25ebbe5",
                             "name": "themeisle-blocks/advanced-column",
                             "isValid": true,
                             "attributes": {
-                                "id": "wp-block-themeisle-blocks-advanced-column-a1a4e546",
                                 "paddingType": "linked",
                                 "paddingTypeTablet": "linked",
                                 "paddingTypeMobile": "linked",
-                                "padding": 20,
+                                "padding": 50,
                                 "paddingTablet": 50,
                                 "paddingMobile": 50,
                                 "paddingTop": 50,
@@ -997,22 +961,16 @@
                                 "paddingLeftMobile": 20,
                                 "marginType": "unlinked",
                                 "marginTypeTablet": "linked",
-                                "marginTypeMobile": "unlinked",
-                                "margin": 20,
+                                "marginTypeMobile": "linked",
+                                "margin": 0,
                                 "marginTablet": 0,
                                 "marginMobile": 0,
-                                "marginTop": 0,
+                                "marginTop": 20,
                                 "marginTopTablet": 20,
                                 "marginTopMobile": 20,
-                                "marginRight": 0,
-                                "marginRightTablet": 0,
-                                "marginRightMobile": 0,
-                                "marginBottom": 0,
+                                "marginBottom": 20,
                                 "marginBottomTablet": 20,
                                 "marginBottomMobile": 20,
-                                "marginLeft": 0,
-                                "marginLeftTablet": 0,
-                                "marginLeftMobile": 0,
                                 "backgroundType": "color",
                                 "backgroundAttachment": "scroll",
                                 "backgroundPosition": "top left",
@@ -1049,17 +1007,16 @@
                             },
                             "innerBlocks": [
                                 {
-                                    "clientId": "ce1ef900-4dd3-4ee2-8910-e5ec93a9d084",
+                                    "clientId": "22cf1268-f601-4a4b-8aa9-53a7536458eb",
                                     "name": "themeisle-blocks/pricing",
                                     "isValid": true,
                                     "attributes": {},
                                     "innerBlocks": [
                                         {
-                                            "clientId": "26874c65-10cf-4bc6-b0b2-abb7d8160ab5",
+                                            "clientId": "5fc04ef7-c86b-4e78-9aa0-ef6933377873",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-01eddc93",
                                                 "content": "Premium",
                                                 "tag": "h5",
                                                 "align": "center",
@@ -1104,10 +1061,10 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-01eddc93\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-01eddc93\" style=\"color:#000000;font-style:normal;text-transform:none\">Premium</h5>"
+                                            "originalContent": "<h5 id=\"wp-block-themeisle-blocks-advanced-heading-d783ceed\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d783ceed\" style=\"color:#000000;font-style:normal;text-transform:none\">Premium</h5>"
                                         },
                                         {
-                                            "clientId": "6f9d2c65-6b10-4a9d-b45f-5b68a8c35417",
+                                            "clientId": "13cf158e-b35c-4397-85a1-7aa978265d51",
                                             "name": "core/separator",
                                             "isValid": true,
                                             "attributes": {
@@ -1117,11 +1074,10 @@
                                             "originalContent": "<hr class=\"wp-block-separator is-style-wide\"/>"
                                         },
                                         {
-                                            "clientId": "c3691534-69b7-4590-b1d4-9654a2343e2d",
+                                            "clientId": "191e84c9-7da1-42ec-93f0-53df5a8f1dd6",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-52a0bd5f",
                                                 "content": "$19.99",
                                                 "tag": "h3",
                                                 "align": "center",
@@ -1169,14 +1125,13 @@
                                                 "marginBottomMobile": 0
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-52a0bd5f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-52a0bd5f\" style=\"color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$19.99</h3>"
+                                            "originalContent": "<h3 id=\"wp-block-themeisle-blocks-advanced-heading-bcb13bc1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bcb13bc1\" style=\"color:#239ddb;font-family:Roboto Slab;font-weight:normal;font-style:normal;text-transform:none\">$19.99</h3>"
                                         },
                                         {
-                                            "clientId": "06604507-011d-427c-8336-6fbba2c484a8",
+                                            "clientId": "cc481e9e-306c-4d0e-9a65-a02f8bb1d276",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-b7bf9427",
                                                 "content": "/month",
                                                 "tag": "p",
                                                 "align": "center",
@@ -1222,14 +1177,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-b7bf9427\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b7bf9427\" style=\"color:#999999;font-style:normal;text-transform:none\">/month</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-95a7ab31\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-95a7ab31\" style=\"color:#999999;font-style:normal;text-transform:none\">/month</p>"
                                         },
                                         {
-                                            "clientId": "2eb6eaf1-0b7f-4351-bd0e-70e319350f1c",
+                                            "clientId": "53a1e17a-e84b-4577-bad9-618303c309e5",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-5daf4ede",
                                                 "content": "First Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -1275,14 +1229,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-5daf4ede\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5daf4ede\" style=\"color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-4baa817d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4baa817d\" style=\"color:#000000;font-style:normal;text-transform:none\">First Feature</p>"
                                         },
                                         {
-                                            "clientId": "4490b445-9d86-4b33-8d02-95934760122e",
+                                            "clientId": "c052385d-af95-42d4-983f-97953cfe5bf5",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-e4ae4448",
                                                 "content": "Second Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -1328,14 +1281,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-e4ae4448\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e4ae4448\" style=\"color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-48a5d487\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-48a5d487\" style=\"color:#000000;font-style:normal;text-transform:none\">Second Feature</p>"
                                         },
                                         {
-                                            "clientId": "e71ed269-6d78-46b0-b9cc-354d58259d3d",
+                                            "clientId": "b11cecc2-e00b-44bc-a8da-2922f406d805",
                                             "name": "themeisle-blocks/advanced-heading",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-advanced-heading-6c6ab57d",
                                                 "content": "Last Feature",
                                                 "tag": "p",
                                                 "align": "center",
@@ -1381,14 +1333,13 @@
                                                 "marginBottomMobile": 20
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-6c6ab57d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6c6ab57d\" style=\"color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
+                                            "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-450cce32\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-450cce32\" style=\"color:#000000;font-style:normal;text-transform:none\">Last Feature</p>"
                                         },
                                         {
-                                            "clientId": "cbf564f5-bf6e-400b-a718-3a096bbf6680",
+                                            "clientId": "bfcfc6b3-27e7-461d-b164-78e8787c1024",
                                             "name": "themeisle-blocks/button-group",
                                             "isValid": true,
                                             "attributes": {
-                                                "id": "wp-block-themeisle-blocks-button-group-cb46e4ca",
                                                 "buttons": 1,
                                                 "align": "center",
                                                 "spacing": 20,
@@ -1429,20 +1380,20 @@
                                                 "className": "collapse"
                                             },
                                             "innerBlocks": [],
-                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-cb46e4ca\" class=\"wp-block-themeisle-blocks-button-group collapse\" style=\"justify-content:center;align-items:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
+                                            "originalContent": "<div id=\"wp-block-themeisle-blocks-button-group-d2fdb0c6\" class=\"wp-block-themeisle-blocks-button-group collapse\" style=\"justify-content:center;align-items:center\"><a target=\"_self\" class=\"wp-block-themeisle-blocks-button wp-block-themeisle-blocks-button-0\" style=\"font-size:14px;font-family:Roboto;font-weight:normal;font-style:normal;text-transform:uppercase;border-width:0px;border-radius:3px;padding:12px 24px \"><span>Buy Now</span></a></div>"
                                         }
                                     ],
                                     "originalContent": "<div class=\"wp-block-themeisle-blocks-pricing\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>"
                                 }
                             ],
-                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-a1a4e546\" style=\"border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
+                            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-2aaaed1b\" style=\"border-width:1px;border-style:solid;border-color:#e0e3e8;border-radius:3px\"></div>"
                         }
                     ],
-                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-c53871df\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+                    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-ea85765c\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-6739d943\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-2adc60e2\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-wider-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-6dfe2a61\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:center\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\" style=\"max-width:1170px\">\n\n</div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-wider-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-de657d02\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
 }
