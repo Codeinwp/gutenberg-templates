@@ -1,5 +1,5 @@
 {
-    "clientId": "38952f05-8fc5-4814-b71a-2614c7a65a5e",
+    "clientId": "160999f8-fdd8-4af2-acf2-94bf18061fe8",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
@@ -38,8 +38,8 @@
         "marginBottom": 20,
         "marginBottomTablet": 20,
         "marginBottomMobile": 20,
-        "columnsHeight": "auto",
         "horizontalAlign": "unset",
+        "columnsHeight": "auto",
         "verticalAlign": "unset",
         "backgroundType": "color",
         "backgroundAttachment": "scroll",
@@ -119,7 +119,7 @@
     },
     "innerBlocks": [
         {
-            "clientId": "f2e2541a-2849-4d20-acc1-b1c5f9f39f58",
+            "clientId": "79ba2dd4-7a24-4082-8bed-6ff220ee1b63",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -150,9 +150,15 @@
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
+                "marginRight": 0,
+                "marginRightTablet": 0,
+                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
+                "marginLeft": 0,
+                "marginLeftTablet": 0,
+                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -189,23 +195,31 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "9ebe6ae7-8ef9-4796-9493-4e57c8504539",
+                    "clientId": "cafbb682-c939-4c63-bc5e-10419bd4988f",
                     "name": "themeisle-blocks/google-map",
                     "isValid": true,
                     "attributes": {
-                        "location": "Bucharest",
+                        "location": "La Sagrada Familia, Barcelona, Spain",
+                        "latitude": "41.4036299",
+                        "longitude": "2.1743558000000576",
                         "type": "roadmap",
-                        "zoom": 10,
-                        "height": "400px"
+                        "zoom": 15,
+                        "height": 400,
+                        "draggable": true,
+                        "mapTypeControl": true,
+                        "zoomControl": true,
+                        "fullscreenControl": true,
+                        "streetViewControl": true,
+                        "markers": []
                     },
                     "innerBlocks": [],
                     "originalContent": ""
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-44be0f99\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-928497df\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\"></div>"
         },
         {
-            "clientId": "d0b243ed-6db9-4b17-92db-7f45352556c5",
+            "clientId": "cbeb33d7-9906-4437-bf9e-bda1b18854dd",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -236,9 +250,15 @@
                 "marginTop": 20,
                 "marginTopTablet": 20,
                 "marginTopMobile": 20,
+                "marginRight": 0,
+                "marginRightTablet": 0,
+                "marginRightMobile": 0,
                 "marginBottom": 20,
                 "marginBottomTablet": 20,
                 "marginBottomMobile": 20,
+                "marginLeft": 0,
+                "marginLeftTablet": 0,
+                "marginLeftMobile": 0,
                 "backgroundType": "color",
                 "backgroundAttachment": "scroll",
                 "backgroundPosition": "top left",
@@ -275,7 +295,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "fe63ff86-1ab5-4c90-a9b9-f13c586f8c30",
+                    "clientId": "d91f2f70-a229-4afc-905a-7fde2cabe95d",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
@@ -322,10 +342,10 @@
                         "marginBottomMobile": 20
                     },
                     "innerBlocks": [],
-                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d8590716\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d8590716\" style=\"color:#000000;font-style:normal;text-transform:none\">We are real people.</h2>"
+                    "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-112e456b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-112e456b\" style=\"color:#000000;font-style:normal;text-transform:none\">We are real people.</h2>"
                 },
                 {
-                    "clientId": "49f74c72-2872-4f37-bf6b-141b759b9ad4",
+                    "clientId": "70cf0d21-bfff-45fd-9745-c0a637400fc1",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
@@ -336,21 +356,20 @@
                     "originalContent": "<p>Click edit button to change this text. Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper  mattis, pulvinar dapibus leo.</p>"
                 },
                 {
-                    "clientId": "e59afef5-934f-4837-a21d-e71d52373ef9",
+                    "clientId": "5052c073-1a86-4d78-b248-b09406a50831",
                     "name": "core/separator",
-                    "isValid": true,
                     "attributes": {},
+                    "isValid": true,
                     "innerBlocks": [],
                     "originalContent": "<hr class=\"wp-block-separator\"/>"
                 },
                 {
-                    "clientId": "c471eb1f-c1e3-4c15-9b28-f960fdd4e76e",
+                    "clientId": "ba13963e-eb44-48bb-ac72-bac3b8259648",
                     "name": "themeisle-blocks/sharing-icons",
                     "isValid": true,
                     "attributes": {
                         "facebook": true,
                         "twitter": true,
-                        "googleplus": true,
                         "linkedin": true,
                         "pinterest": true,
                         "tumblr": true,
@@ -361,8 +380,8 @@
                     "originalContent": ""
                 }
             ],
-            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-columns-9bff6636\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n\n\n</div>"
+            "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-90523b2e\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px\">\n\n\n\n\n\n</div>"
         }
     ],
-    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-6f43f9da\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal;filter:blur( 0px ) brightness( 1 ) contrast( 1 ) grayscale( 0 ) hue-rotate( 0deg ) saturate( 1 )\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
+    "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-a72b4691\" style=\"border-width:0px;border-style:solid;border-color:#000000;border-radius:0px;justify-content:unset\"><div class=\"wp-themeisle-block-overlay\" style=\"opacity:0.5;mix-blend-mode:normal\"></div><div class=\"innerblocks-wrap\">\n\n</div></div>"
 }
