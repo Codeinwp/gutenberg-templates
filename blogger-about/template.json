@@ -304,11 +304,11 @@
                     "attributes": {
                         "content": "I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.",
                         "dropCap": false,
-                        "textColor": "background"
+                        "textColor": "white"
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<p class=\"has-text-color has-background-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.</p>"
+                    "originalContent": "<p class=\"has-text-color has-white-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.</p>"
                 },
                 {
                     "clientId": "20a6cbcd-9806-49d6-800a-8003d1b308ad",
@@ -317,11 +317,11 @@
                     "attributes": {
                         "content": "I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.",
                         "dropCap": false,
-                        "textColor": "background"
+                        "textColor": "white"
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<p class=\"has-text-color has-background-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.</p>"
+                    "originalContent": "<p class=\"has-text-color has-white-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.</p>"
                 }
             ],
             "validationIssues": [],
