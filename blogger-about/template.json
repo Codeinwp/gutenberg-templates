@@ -1,5 +1,5 @@
 {
-    "clientId": "9ea8a058-c001-48bf-aeb8-5d5dc48f2015",
+    "clientId": "3a654ae6-b2c7-403a-85d1-b8e2acedcd0e",
     "name": "themeisle-blocks/advanced-columns",
     "isValid": true,
     "attributes": {
@@ -119,11 +119,13 @@
         "hideMobile": false,
         "reverseColumnsTablet": false,
         "columnsHTMLTag": "div",
-        "align": "full"
+        "align": "full",
+        "hasCustomCSS": false,
+        "customCSS": null
     },
     "innerBlocks": [
         {
-            "clientId": "3f8ff2aa-937e-47d8-9683-2c8f86447af3",
+            "clientId": "bcb194d2-d2f6-4809-a76a-f1ad91cbf33d",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -198,11 +200,13 @@
                 "boxShadowVertical": 0,
                 "columnsHTMLTag": "div",
                 "columnWidth": "50",
-                "className": "ticss-48ef8f35"
+                "className": "ticss-48ef8f35",
+                "hasCustomCSS": false,
+                "customCSS": null
             },
             "innerBlocks": [
                 {
-                    "clientId": "0bf514b5-ba93-4753-87c3-68229bcf7cb1",
+                    "clientId": "2e6286d7-8170-4712-bf6b-b3d58b722c2b",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
@@ -250,14 +254,16 @@
                         "marginTopMobile": 0,
                         "marginBottom": 25,
                         "marginBottomTablet": 25,
-                        "marginBottomMobile": 20
+                        "marginBottomMobile": 20,
+                        "hasCustomCSS": false,
+                        "customCSS": null
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
                     "originalContent": "<p id=\"wp-block-themeisle-blocks-advanced-heading-be74e7f6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-be74e7f6\"><strong>Minimized simplicity</strong></p>"
                 },
                 {
-                    "clientId": "66485c08-2703-4e6e-9221-d9c3008c4d68",
+                    "clientId": "a5a66300-666f-40db-b9ce-bfbc178ae635",
                     "name": "themeisle-blocks/advanced-heading",
                     "isValid": true,
                     "attributes": {
@@ -291,44 +297,50 @@
                         "marginTypeMobile": "unlinked",
                         "margin": 0,
                         "marginTop": 0,
-                        "marginBottom": 25
+                        "marginBottom": 25,
+                        "hasCustomCSS": false,
+                        "customCSS": null
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
                     "originalContent": "<h2 id=\"wp-block-themeisle-blocks-advanced-heading-0ae76930\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0ae76930\">Welcome friend.</h2>"
                 },
                 {
-                    "clientId": "5c2f6705-0444-4409-9ed5-d479f9d1e8fb",
+                    "clientId": "1f7bb5ec-aade-48bc-af00-40e62dd384d3",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
                         "content": "I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.",
                         "dropCap": false,
-                        "textColor": "white"
+                        "customTextColor": "#ffffff",
+                        "hasCustomCSS": false,
+                        "customCSS": null
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<p class=\"has-text-color has-white-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.</p>"
+                    "originalContent": "<p style=\"color:#ffffff\" class=\"has-text-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.</p>"
                 },
                 {
-                    "clientId": "20a6cbcd-9806-49d6-800a-8003d1b308ad",
+                    "clientId": "74256011-f5ea-4644-a90b-9266e01cb10d",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
                         "content": "I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.",
                         "dropCap": false,
-                        "textColor": "white"
+                        "customTextColor": "#ffffff",
+                        "hasCustomCSS": false,
+                        "customCSS": null
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<p class=\"has-text-color has-white-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.</p>"
+                    "originalContent": "<p style=\"color:#ffffff\" class=\"has-text-color\">I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.</p>"
                 }
             ],
             "validationIssues": [],
             "originalContent": "<div class=\"wp-block-themeisle-blocks-advanced-column ticss-48ef8f35\" id=\"wp-block-themeisle-blocks-advanced-column-b5f2800c\">\n\n\n\n\n\n</div>"
         },
         {
-            "clientId": "eed89462-3038-451d-a07e-650f672bafd2",
+            "clientId": "cec365c7-e733-42ef-92af-a20e45a36713",
             "name": "themeisle-blocks/advanced-column",
             "isValid": true,
             "attributes": {
@@ -403,11 +415,13 @@
                 "boxShadowVertical": 0,
                 "columnsHTMLTag": "div",
                 "columnWidth": "50",
-                "className": "ticss-5418d6a3"
+                "className": "ticss-5418d6a3",
+                "hasCustomCSS": false,
+                "customCSS": null
             },
             "innerBlocks": [
                 {
-                    "clientId": "9e902636-4fdf-4061-8946-462948c52003",
+                    "clientId": "3f1cddb9-ee4d-494a-aadf-7d4739d33516",
                     "name": "core/image",
                     "isValid": true,
                     "attributes": {
@@ -416,7 +430,9 @@
                         "alt": "",
                         "caption": "",
                         "id": 19,
-                        "linkDestination": "none"
+                        "linkDestination": "none",
+                        "hasCustomCSS": false,
+                        "customCSS": null
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
